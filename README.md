@@ -1,2 +1,2 @@
 # html-portfolio
-this gives my introduction
+This is a my portfolio website made with the use of HTML.
